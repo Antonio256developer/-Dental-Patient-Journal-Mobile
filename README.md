@@ -3,14 +3,14 @@
 
 СТЕК:
 
-Expo
+- Expo
 
-React Native
+- React Native
 
-react-navigation
+- react-navigation
 
-styled-components
+- styled-components
 
-native-base
+- native-base
 
-axios
+- axios
