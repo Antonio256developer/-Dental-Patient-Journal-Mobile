@@ -33,7 +33,7 @@ useEffect(fetchPatients, [route.params]);
 
 const onSearch = e => {      //поиск
    setSearchValue(e.nativeEvent.text);
- };
+  };
 
  const removePatient = id => {
    Alert.alert(
