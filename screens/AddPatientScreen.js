@@ -60,7 +60,7 @@ const onSubmit = () => {
           </Button>
       </ButtonView>
      </Container>
- );
+  );
 };
 
 const ButtonView = styled.View`
