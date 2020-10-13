@@ -86,7 +86,7 @@ return (
         )}
         renderSectionHeader={({ section: { title } }) =>
           <SectionTitle>{title}</SectionTitle>
-        }
+         }
       />
     )}
     <PlusButton onPress={navigation.navigate.bind(this, 'AddPatient')} />
