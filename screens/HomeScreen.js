@@ -80,7 +80,7 @@ return (
                 <Ionicons name="ios-close" size={48} color="white" />
               </SwipeViewButton>
             ]}
-          >
+           >
             <Appointment navigate={navigation.navigate} item={item} />
           </Swipeable>
         )}
