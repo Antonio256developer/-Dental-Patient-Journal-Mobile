@@ -17,7 +17,7 @@ const PatientScreen = ({ route, navigation }) => {
      setAppointments(data.data.appointments);
      setIsLoading(false);
    }).catch(() => {
-     setIsLoading(false);
+      setIsLoading(false);
    });
 }, []);
 
