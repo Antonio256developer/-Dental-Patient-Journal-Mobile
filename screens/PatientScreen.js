@@ -28,7 +28,7 @@ return (
     <GrayText>{phoneFormat(route.params?.patient.phone)} </GrayText>
     <PatientButtons>
       <FormulaButtonView>
-        <Button>Формула зубов</Button>
+         <Button>Формула зубов</Button>
       </FormulaButtonView>
       <PhoneButtonView>
         <Button
