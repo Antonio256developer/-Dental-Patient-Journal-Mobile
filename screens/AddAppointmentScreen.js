@@ -161,8 +161,8 @@ AddAppointmentScreen.navigationOptions = {
   title: 'Добавить прием',
   headerTintColor: '#2A86FF',
   headerStyle: {
-    elevation: 0.8,
-    shadowOpacity: 0.8
+     elevation: 0.8,
+     shadowOpacity: 0.8
   }
 };
 
